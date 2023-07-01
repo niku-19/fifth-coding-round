@@ -1,0 +1,23 @@
+.recipe__add {
+  width: max-content;
+  height: auto;
+  background-color: #f2f2f2;
+  border-radius: 0.5rem;
+  border: 2px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+  padding: 2rem 6rem;
+}
+
+.recipe__add__icon {
+  font-size: 3rem;
+  color: #ccc;
+}
+
+.recipe__add__text {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #2e2e2e;
+}
